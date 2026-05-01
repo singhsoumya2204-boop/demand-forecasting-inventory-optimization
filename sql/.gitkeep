@@ -1,1 +1,16 @@
+-- Demand by Product
+SELECT ProductName, SUM(UnitsSold) AS TotalDemand
+FROM InventoryDemand
+GROUP BY ProductName;
 
+-- Stockout Risk
+SELECT ProductName, COUNT(*) AS StockoutCount
+FROM InventoryDemand
+WHERE InventoryOnHand < ReorderPoint
+GROUP BY ProductName;
+
+-- Overstock Risk
+SELECT ProductName, COUNT(*) AS OverstockCount
+FROM InventoryDemand
+WHERE InventoryOnHand > UnitsSold * 0.8
+GROUP BY ProductName;
