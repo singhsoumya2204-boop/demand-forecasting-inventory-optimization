@@ -2,7 +2,9 @@
 
 ## 📌 Overview
 
-This project focuses on demand forecasting and inventory optimization using Power BI, SQL and analytical modeling to identify stock risks and improve inventory decisions.
+This project demonstrates end-to-end analytics from demand analysis to forecasting and inventory optimization, helping reduce stockouts and overstock while improving operational efficiency.
+
+Dataset: Simulated multi-product monthly demand (48 rows)
 
 ---
 
@@ -64,9 +66,14 @@ sql/
 ![insights](images/insights1.png)
 ![insights](images/insights2.png)
 
-
-
 ---
+
+## ▶️ How to Use
+1. Open the PBIX file from `dashboard/`
+2. Explore KPIs and visuals
+3. Use slicers (if any) to filter by product/category
+4. Review AI Insights panel for recommendations
+
 
 ## 🎯 Business Impact
 
