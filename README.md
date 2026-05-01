@@ -43,6 +43,29 @@ data/
 images/
 sql/
 
+## 📊 Dashboard Preview
+
+![Dashboard](images/dashboard2.png)
+
+## 📈 Demand Trend
+
+![Trend](images/trend_chart.png)
+
+## ⚠️ Stockout Risk
+
+![Stockout](images/stockout_chart.png)
+
+## 📦 Overstock Risk
+
+![Overstock](images/overstock_chart.png)
+
+## 📦 AI insights
+
+![insights](images/insights1.png)
+![insights](images/insights2.png)
+
+
+
 ---
 
 ## 🎯 Business Impact
