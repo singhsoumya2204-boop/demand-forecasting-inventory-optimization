@@ -49,11 +49,11 @@ sql/
 
 ## 📈 Demand Trend
 
-![Trend](images/trend_chart.png)
+![Trend](images/demand_trend.png)
 
 ## ⚠️ Stockout Risk
 
-![Stockout](images/stockout_chart.png)
+![Stockout](images/stockoutRiskchart.png)
 
 ## 📦 Overstock Risk
 
