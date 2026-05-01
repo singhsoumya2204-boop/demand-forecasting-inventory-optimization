@@ -1,0 +1,49 @@
+Month,Category,ProductName,UnitsSold,InventoryOnHand,ReorderPoint,UnitCost
+Jan,Electronics,Laptop,120,50,80,600
+Jan,Electronics,Mouse,90,70,60,20
+Jan,Office Supplies,Printer,40,100,30,250
+Jan,Accessories,Keyboard,75,60,50,35
+Feb,Electronics,Laptop,110,45,80,600
+Feb,Electronics,Mouse,85,65,60,20
+Feb,Office Supplies,Printer,35,95,30,250
+Feb,Accessories,Keyboard,70,55,50,35
+Mar,Electronics,Laptop,140,60,80,600
+Mar,Electronics,Mouse,95,72,60,20
+Mar,Office Supplies,Printer,38,92,30,250
+Mar,Accessories,Keyboard,82,58,50,35
+Apr,Electronics,Laptop,150,62,80,600
+Apr,Electronics,Mouse,100,70,60,20
+Apr,Office Supplies,Printer,42,90,30,250
+Apr,Accessories,Keyboard,84,56,50,35
+May,Electronics,Laptop,160,65,80,600
+May,Electronics,Mouse,105,68,60,20
+May,Office Supplies,Printer,45,88,30,250
+May,Accessories,Keyboard,88,54,50,35
+Jun,Electronics,Laptop,155,60,80,600
+Jun,Electronics,Mouse,110,66,60,20
+Jun,Office Supplies,Printer,48,85,30,250
+Jun,Accessories,Keyboard,92,52,50,35
+Jul,Electronics,Laptop,170,58,80,600
+Jul,Electronics,Mouse,115,64,60,20
+Jul,Office Supplies,Printer,50,82,30,250
+Jul,Accessories,Keyboard,95,50,50,35
+Aug,Electronics,Laptop,165,55,80,600
+Aug,Electronics,Mouse,112,62,60,20
+Aug,Office Supplies,Printer,52,80,30,250
+Aug,Accessories,Keyboard,96,48,50,35
+Sep,Electronics,Laptop,175,52,80,600
+Sep,Electronics,Mouse,118,60,60,20
+Sep,Office Supplies,Printer,55,78,30,250
+Sep,Accessories,Keyboard,98,46,50,35
+Oct,Electronics,Laptop,180,50,80,600
+Oct,Electronics,Mouse,120,58,60,20
+Oct,Office Supplies,Printer,58,76,30,250
+Oct,Accessories,Keyboard,100,44,50,35
+Nov,Electronics,Laptop,190,48,80,600
+Nov,Electronics,Mouse,125,56,60,20
+Nov,Office Supplies,Printer,60,74,30,250
+Nov,Accessories,Keyboard,105,42,50,35
+Dec,Electronics,Laptop,200,45,80,600
+Dec,Electronics,Mouse,130,54,60,20
+Dec,Office Supplies,Printer,65,72,30,250
+Dec,Accessories,Keyboard,110,40,50,35
